@@ -9,7 +9,7 @@ areas:
   - direct-booking
   - conversion-ux
   - web-development
-status: planning
+status: building
 visibility: public
 purpose:
   - portfolio
@@ -21,7 +21,7 @@ stack:
   - typescript
   - tailwind
 featured: false
-repository: https://github.com/VionWorks/hospitality-casa-luma
+repository: https://github.com/AlexiVion/hospitality-casa-luma
 live_demo: null
 owner: AlexiVion
 created: 2026-09-13

@@ -21,7 +21,7 @@ See [`taxonomy/TYPES.md`](taxonomy/TYPES.md) for the canonical definitions.
 | ID | Project | Type | Domain | Status | Featured |
 |---|---|---|---|---|---:|
 | [`TECH-001`](projects/TECH-001.yaml) | [RAG Architecture Lab](https://github.com/AlexiVion/rag-architecture-lab) | Technical Lab | Artificial Intelligence | Published | Yes |
-| [`DEMO-001`](projects/DEMO-001.yaml) | [Casa Luma](https://github.com/VionWorks/hospitality-casa-luma) | Business Demo | Hospitality | Planning | No |
+| [`DEMO-001`](projects/DEMO-001.yaml) | [Casa Luma](https://github.com/AlexiVion/hospitality-casa-luma) | Business Demo | Hospitality | Building | No |
 
 Project entries in [`projects/`](projects/) are the canonical source of truth.
 
