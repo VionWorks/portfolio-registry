@@ -21,6 +21,7 @@ See [`taxonomy/TYPES.md`](taxonomy/TYPES.md) for the canonical definitions.
 | ID | Project | Type | Domain | Status | Featured |
 |---|---|---|---|---|---:|
 | [`TECH-001`](projects/TECH-001.yaml) | [RAG Architecture Lab](https://github.com/AlexiVion/rag-architecture-lab) | Technical Lab | Artificial Intelligence | Published | Yes |
+| [`DEMO-001`](projects/DEMO-001.yaml) | [Casa Luma](https://github.com/VionWorks/hospitality-casa-luma) | Business Demo | Hospitality | Planning | No |
 
 Project entries in [`projects/`](projects/) are the canonical source of truth.
 
@@ -59,7 +60,8 @@ portfolio-registry/
 ├── README.md
 ├── SCHEMA.md
 ├── projects/
-│   └── TECH-001.yaml
+│   ├── TECH-001.yaml
+│   └── DEMO-001.yaml
 ├── taxonomy/
 │   ├── TYPES.md
 │   ├── STATUS.md
@@ -103,8 +105,8 @@ A lightweight GitHub Actions workflow validates metadata changes. It does not ru
 5. Add `PROJECT.yaml` to the project repository when appropriate so the repository can carry a local copy of its public classification metadata.
 6. Update curated public surfaces only if the project is ready to represent VionWorks professionally.
 
-## First registered project
+## First registered projects
 
 `TECH-001` is **RAG Architecture Lab**, a public technical lab focused on implementing, benchmarking, and comparing Retrieval-Augmented Generation architectures under controlled conditions.
 
-Its existing repository remains under `AlexiVion`; VionWorks tracks it without forcing a repository migration.
+`DEMO-001` is **Casa Luma**, a fictional boutique-hotel concept project focused on direct booking, room discovery, and conversion-oriented hospitality UX. It is explicitly a concept project rather than client work.
