@@ -1,0 +1,36 @@
+schema_version: 1
+id: DEMO-001
+name: Casa Luma
+slug: hospitality-casa-luma
+type: business-demo
+domain: hospitality
+areas:
+  - hospitality
+  - direct-booking
+  - conversion-ux
+  - web-development
+status: planning
+visibility: public
+purpose:
+  - portfolio
+  - upwork
+  - sales-demo
+  - capability-proof
+stack:
+  - nextjs
+  - typescript
+  - tailwind
+featured: false
+repository: https://github.com/VionWorks/hospitality-casa-luma
+live_demo: null
+owner: AlexiVion
+created: 2026-09-13
+updated: 2026-09-13
+topics:
+  - hospitality
+  - hotel
+  - direct-booking
+  - portfolio
+  - concept-project
+notes: >-
+  Concept portfolio project for a fictional boutique hotel. It must never be presented as paid client work or claim real-world performance metrics that were not measured.
