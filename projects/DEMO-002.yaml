@@ -22,9 +22,9 @@ stack:
   - typescript
   - tailwindcss
 featured: false
-repository: https://github.com/VionWorks/hospitality-brisas-de-la-cayana
+repository: https://github.com/AlexiVion/hospitality-brisas-de-la-cayana
 live_demo: null
-owner: VionWorks
+owner: AlexiVion
 created: 2026-09-16
 updated: 2026-09-16
 topics:
