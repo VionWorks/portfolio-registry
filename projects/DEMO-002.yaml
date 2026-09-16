@@ -1,0 +1,43 @@
+schema_version: 1
+id: DEMO-002
+name: Brisas de la Cayana
+slug: hospitality-brisas-de-la-cayana
+type: business-demo
+domain: hospitality
+areas:
+  - cabin-website
+  - hospitality-storytelling
+  - direct-booking
+  - conversion-ux
+  - responsive-web
+status: planning
+visibility: public
+purpose:
+  - prospect-demo
+  - commercial-portfolio
+  - capability-proof
+  - sales-demo
+stack:
+  - nextjs
+  - typescript
+  - tailwindcss
+featured: false
+repository: https://github.com/VionWorks/hospitality-brisas-de-la-cayana
+live_demo: null
+owner: VionWorks
+created: 2026-09-16
+updated: 2026-09-16
+topics:
+  - hospitality
+  - cabin
+  - villa-alpina
+  - direct-booking
+  - storytelling
+  - portfolio
+notes: >-
+  Prospect demo for the real Brisas de la Cayana accommodation in Villa Alpina,
+  Cordoba. The project should present the business honestly and use the property,
+  brand assets, photography, testimonials, and other owner-controlled material in
+  a permanent public portfolio only with appropriate permission. Until converted
+  into client work, it must be described as a prospect demo rather than a paid
+  client project.
