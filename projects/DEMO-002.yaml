@@ -10,7 +10,7 @@ areas:
   - direct-booking
   - conversion-ux
   - responsive-web
-status: planning
+status: building
 visibility: public
 purpose:
   - prospect-demo
@@ -36,8 +36,7 @@ topics:
   - portfolio
 notes: >-
   Prospect demo for the real Brisas de la Cayana accommodation in Villa Alpina,
-  Cordoba. The project should present the business honestly and use the property,
-  brand assets, photography, testimonials, and other owner-controlled material in
-  a permanent public portfolio only with appropriate permission. Until converted
-  into client work, it must be described as a prospect demo rather than a paid
-  client project.
+  Cordoba. The initial responsive storytelling website and direct WhatsApp enquiry
+  flow are implemented, while final owner-approved original photography and live
+  deployment are still pending. The project must remain described as a prospect
+  demo rather than paid client work unless that relationship is later established.
